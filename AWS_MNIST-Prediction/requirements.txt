@@ -7,7 +7,7 @@ chardet==3.0.4
 Click==7.0
 decorator==4.4.1
 Flask==1.0.3
-Flask-Cors==3.0.8
+Flask-Cors==3.0.9
 gast==0.2.2
 google-auth==1.9.0
 google-auth-oauthlib==0.4.1
